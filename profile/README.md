@@ -223,7 +223,7 @@
             <a href="https://github.com/vdv-boolean/html-css-zoom">See the repository.
         </a>
     </li>
-    <li>
+    <!-- <li>
         <h5>
             <a href="https://vdv-boolean.github.io/html-css-animation-filter/">Animation Filter</a>
         </h5>
@@ -233,7 +233,7 @@
         <span>
             <a href="https://github.com/vdv-boolean/html-css-animation-filter">See the repository.
         </a>
-    </li>
+    </li> -->
     <li>
         <h5>
             <a href="https://vdv-boolean.github.io/htmlcss-dropbox/">Dropbox Web App</a>
@@ -243,6 +243,17 @@
         </p>
         <span>
             <a href="https://github.com/vdv-boolean/htmlcss-dropbox">See the repository.
+        </a>
+    </li>
+    <li>
+        <h5>
+            <a href="https://vdv-boolean.github.io/html-css-resp-wannabe /">Responsive Wannabe</a>
+        </h5>
+        <p>
+            Description coming soon!
+        </p>
+        <span>
+            <a href="https://github.com/vdv-boolean/html-css-resp-wannabe ">See the repository.
         </a>
     </li>
     <li>
@@ -267,7 +278,7 @@
             <a href="https://github.com/vdv-boolean/html-css-spotifyweb">See the repository.
         </a>
     </li>
-    <li>
+    <!-- <li>
         <h5>
             <a href="https://vdv-boolean.github.io/html-css-12bool/">12bool</a>
         </h5>
@@ -276,6 +287,17 @@
         </p>
         <span>
             <a href="https://github.com/vdv-boolean/html-css-12bool">See the repository.
+        </a>
+    </li> -->
+    <li>
+        <h5>
+            <a href="https://vdv-boolean.github.io/htmlcss-pixel-art/">Pixel Art</a>
+        </h5>
+        <p>
+            Description coming soon!
+        </p>
+        <span>
+            <a href="https://github.com/vdv-boolean/htmlcss-pixel-art">See the repository.
         </a>
     </li>
     <li>
