@@ -111,7 +111,7 @@
         target="_blank" 
         rel="noreferrer"> 
         <img 
-            src="../img/phpmyadmin.png" 
+            src="./img/phpmyadmin.png" 
             alt="phpmyadmin" 
             width="40" 
             height="40"
