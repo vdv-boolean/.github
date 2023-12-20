@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincenzo Di Vita</h1>
-<h3 align="center">In this place there are all my projects made in Boolean (class #96)</h3>
+<h3 align="center">In this place there are all my projects developed by me during the Boolean Class #96 course.</h3>
 <h3 align="center">For more visit my <a href="https://github.com/vincenzodivita">main account</a></h3>
 
 <h4 align="left">Languages, libraries and frameworks used for front-end development:</h4>
