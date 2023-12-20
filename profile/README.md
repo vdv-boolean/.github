@@ -111,7 +111,7 @@
         target="_blank" 
         rel="noreferrer"> 
         <img 
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/2560px-PhpMyAdmin_logo.svg.png" 
+            src="../img/phpmyadmin.png" 
             alt="phpmyadmin" 
             width="40" 
             height="40"
