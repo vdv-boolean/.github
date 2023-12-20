@@ -2,7 +2,7 @@
 <h3 align="center">In this place there are all my projects made in Boolean (class #96)</h3>
 <h3 align="center">For more visit my <a href="https://github.com/vincenzodivita">main account</a></h3>
 
-<h3 align="left">Languages, libraries and frameworks used for front-end development:</h3>
+<h4 align="left">Languages, libraries and frameworks used for front-end development:</h4>
 <p align="left"> 
     <a 
         href="https://www.w3.org/html/" 
@@ -68,7 +68,7 @@
         /> 
     </a> 
 </p>
-<h3 align="left">Languages, libraries and frameworks used for back-end development:</h3>
+<h4 align="left">Languages, libraries and frameworks used for back-end development:</h4>
 <p align="left">
     <a 
         href="https://www.php.net" 
@@ -93,7 +93,7 @@
         /> 
     </a> 
 </p>
-<h3 align="left">DBs and tools used for DAL development:</h3>
+<h4 align="left">DBs and tools used for DAL development:</h4>
 <p align="left"> 
     <a 
         href="https://www.mysql.com/" 
@@ -118,7 +118,7 @@
         /> 
     </a>  
 </p>
-<h3 align="left">Other tools used:</h3>
+<h4 align="left">Other tools used:</h4>
 <p align="left"> 
     <a 
         href="https://www.figma.com/" 
