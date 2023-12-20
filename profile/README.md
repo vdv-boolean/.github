@@ -148,6 +148,10 @@
 <ul>
     <li>
         <h5><a href="google.it">Hello World</a></h5>
-        <p></p>
+        <p>Description of the project</p>
+    </li>
+    <li>
+        <h5><a href="google.it">Hello World</a></h5>
+        <p>Description of the project</p>
     </li>
 </ul>
