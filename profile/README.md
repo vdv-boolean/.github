@@ -147,8 +147,11 @@
 
 <ul>
     <li>
-        <h5><a href="google.it">Hello World</a></h5>
-        <p>Description of the project</p>
+        <h5>
+            <a href="https://vdv-boolean.github.io/htmlcss-hello/">Hello World</a> - 
+            <a href="https://github.com/vdv-boolean/htmlcss-hello">Go to repository</a>
+        </h5>
+        <p>This repository contains the famous "Hello World" program written in HTML code.</p>
     </li>
     <li>
         <h5><a href="google.it">Hello World</a></h5>
