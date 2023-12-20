@@ -176,7 +176,118 @@
             Description coming soon!
         </p>
         <span>
-            <a href="https://github.com/vdv-booleanhtml-css-toboolist">See the repository.
+            <a href="https://github.com/vdv-boolean/html-css-toboolist">See the repository.
+        </a>
+    </li>
+    <li>
+        <h5>
+            <a href="https://vdv-boolean.github.io/html-css-float-cards/">Float Cards</a>
+        </h5>
+        <p>
+            Description coming soon!
+        </p>
+        <span>
+            <a href="https://github.com/vdv-boolean/html-css-float-cards">See the repository.
+        </a>
+    </li>
+    <li>
+        <h5>
+            <a href="https://vdv-boolean.github.io/htmlcss-discord/">Discord Web App</a>
+        </h5>
+        <p>
+            Description coming soon!
+        </p>
+        <span>
+            <a href="https://github.com/vdv-boolean/htmlcss-discord">See the repository.
+        </a>
+    </li>
+    <li>
+        <h5>
+            <a href="https://vdv-boolean.github.io/html-css-boolando/">Boolando Web App (Zalando clone)</a>
+        </h5>
+        <p>
+            Description coming soon!
+        </p>
+        <span>
+            <a href="https://github.com/vdv-boolean/html-css-boolando">See the repository.
+        </a>
+    </li>
+    <li>
+        <h5>
+            <a href="https://vdv-boolean.github.io/html-css-zoom/">Zoom Web App</a>
+        </h5>
+        <p>
+            Description coming soon!
+        </p>
+        <span>
+            <a href="https://github.com/vdv-boolean/html-css-zoom">See the repository.
+        </a>
+    </li>
+    <li>
+        <h5>
+            <a href="https://vdv-boolean.github.io/html-css-animation-filter/">Animation Filter</a>
+        </h5>
+        <p>
+            Description coming soon!
+        </p>
+        <span>
+            <a href="https://github.com/vdv-boolean/html-css-animation-filter">See the repository.
+        </a>
+    </li>
+    <li>
+        <h5>
+            <a href="https://vdv-boolean.github.io/htmlcss-dropbox/">Dropbox Web App</a>
+        </h5>
+        <p>
+            Description coming soon!
+        </p>
+        <span>
+            <a href="https://github.com/vdv-boolean/htmlcss-dropbox">See the repository.
+        </a>
+    </li>
+    <li>
+        <h5>
+            <a href="https://vdv-boolean.github.io/htmlcss-responsive-layout/">Responsive layout</a>
+        </h5>
+        <p>
+            Description coming soon!
+        </p>
+        <span>
+            <a href="https://github.com/vdv-boolean/htmlcss-responsive-layout">See the repository.
+        </a>
+    </li>
+    <li>
+        <h5>
+            <a href="https://vdv-boolean.github.io/html-css-spotifyweb/">Spotify Web App</a>
+        </h5>
+        <p>
+            Description coming soon!
+        </p>
+        <span>
+            <a href="https://github.com/vdv-boolean/html-css-spotifyweb">See the repository.
+        </a>
+    </li>
+    <li>
+        <h5>
+            <a href="https://vdv-boolean.github.io/html-css-12bool/">12bool</a>
+        </h5>
+        <p>
+            Description coming soon!
+        </p>
+        <span>
+            <a href="https://github.com/vdv-boolean/html-css-12bool">See the repository.
+        </a>
+    </li>
+    <li>
+        <h5>
+            <a href="https://vdv-boolean.github.io/html-css-bootstrap-dashboard/">Bootstrap Dashboard</a>
+        </h5>
+        <p>
+            Description coming soon!
+        </p>
+        <span>
+            <a href="https://github.com/vdv-boolean/html-css-bootstrap-dashboard">See the repository.
         </a>
     </li>
 </ul>
+htmlcss-discord
