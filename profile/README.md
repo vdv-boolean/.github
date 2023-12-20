@@ -247,13 +247,13 @@
     </li>
     <li>
         <h5>
-            <a href="https://vdv-boolean.github.io/html-css-resp-wannabe /">Responsive Wannabe</a>
+            <a href="https://vdv-boolean.github.io/html-css-resp-wannabe/">Responsive Wannabe</a>
         </h5>
         <p>
             Description coming soon!
         </p>
         <span>
-            <a href="https://github.com/vdv-boolean/html-css-resp-wannabe ">See the repository.
+            <a href="https://github.com/vdv-boolean/html-css-resp-wannabe">See the repository.
         </a>
     </li>
     <li>
