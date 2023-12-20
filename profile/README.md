@@ -150,13 +150,22 @@
         <h5>
             <a href="https://vdv-boolean.github.io/htmlcss-hello/">Hello World</a>
         </h5>
-        <p>This repository contains the famous "Hello World" program written in HTML code.</p>
+        <p>
+            This repository contains the well-known 'Hello World' program written in HTML code.
+        </p>
         <span>
             <a href="https://github.com/vdv-boolean/htmlcss-hello">See the repository.
         </a>
     </li>
     <li>
-        <h5><a href="google.it">Hello World</a></h5>
-        <p>Description of the project</p>
+        <h5>
+            <a href="https://vdv-boolean.github.io/html-london-trip/">London Trip</a>
+        </h5>
+        <p>
+            A very simply page of a travel experience in London with expences, to-do-list, utility information and gallery. Ony using html code!
+        </p>
+        <span>
+            <a href="https://github.com/vdv-boolean/html-london-trip">See the repository.
+        </a>
     </li>
 </ul>
