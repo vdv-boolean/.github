@@ -67,6 +67,17 @@
             height="40"
         /> 
     </a> 
+    <a 
+    href="https://vitejs.dev/" 
+    target="_blank" 
+    rel="noreferrer"> 
+    <img 
+        src="https://vitejs.dev/logo.svg" 
+        alt="vitejs" 
+        width="40" 
+        height="40"
+    /> 
+    </a> 
 </p>
 <h4 align="left">Languages, libraries and frameworks used for back-end development:</h4>
 <p align="left">
