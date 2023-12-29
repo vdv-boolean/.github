@@ -193,7 +193,7 @@
     </li>
     <li>
         <h5>
-            <a href="https://vdv-boolean.github.io/html-london-trip/">London Trip</a>
+            <a href="https://vdv-boolean.github.io/html-london-trip/">London Trip</a> [Status: :white_check_mark:]
         </h5>
         <p>
            A very simple page of a travel experience in London with expenses, to-do list, utility information, and gallery. Only using HTML code!
@@ -204,10 +204,10 @@
     </li>
     <li>
         <h5>
-            <a href="https://vdv-boolean.github.io/html-css-toboolist/">To-Boo-List</a>
+            <a href="https://vdv-boolean.github.io/html-css-toboolist/">To-Boo List</a> [Status: :white_check_mark:]
         </h5>
         <p>
-            Description coming soon!
+            This project is a simple demonstration of a To-Do List created using HTML and CSS. It doesn't have any real functionality and is designed for practice and learning purposes.
         </p>
         <span>
             <a href="https://github.com/vdv-boolean/html-css-toboolist">See the repository.
@@ -215,10 +215,10 @@
     </li>
     <li>
         <h5>
-            <a href="https://vdv-boolean.github.io/html-css-float-cards/">Float Cards</a>
+            <a href="https://vdv-boolean.github.io/html-css-float-cards/">Float Cards</a> [Status: :white_check_mark:]
         </h5>
         <p>
-            Description coming soon!
+            Float Cards is a simple yet effective showcase of an index page with contact cards built using HTML and CSS. The contact cards are styled using flexbox rules, providing a responsive and visually appealing layout for presenting contact information.
         </p>
         <span>
             <a href="https://github.com/vdv-boolean/html-css-float-cards">See the repository.
@@ -226,10 +226,10 @@
     </li>
     <li>
         <h5>
-            <a href="https://vdv-boolean.github.io/htmlcss-discord/">Discord Web App</a>
+            <a href="https://vdv-boolean.github.io/htmlcss-discord/">Discord Web App</a> [Status: :construction:]
         </h5>
         <p>
-            Description coming soon!
+            This project is a static clone of the Discord homepage, created with HTML and CSS. It replicates the visual appearance of the Discord landing page to showcase front-end development skills. Please note that this is a visual replica and doesn't include actual functionality or server-side interactions.
         </p>
         <span>
             <a href="https://github.com/vdv-boolean/htmlcss-discord">See the repository.
@@ -237,10 +237,10 @@
     </li>
     <li>
         <h5>
-            <a href="https://vdv-boolean.github.io/html-css-boolando/">Boolando Web App (Zalando clone)</a>
+            <a href="https://vdv-boolean.github.io/html-css-boolando/">Boolando Web App (Zalando clone)</a> [Status: :white_check_mark:]
         </h5>
         <p>
-            Description coming soon!
+            Boolando is a static clone of the Zalando homepage, crafted with HTML and CSS. It replicates the visual aesthetics and layout of the Zalando website, serving as a front-end development exercise. Please note that this is a visual replica and does not include actual e-commerce functionality or server-side interactions.
         </p>
         <span>
             <a href="https://github.com/vdv-boolean/html-css-boolando">See the repository.
@@ -248,10 +248,10 @@
     </li>
     <li>
         <h5>
-            <a href="https://vdv-boolean.github.io/html-css-zoom/">Zoom Web App</a>
+            <a href="https://vdv-boolean.github.io/html-css-zoom/">Zoom Web App</a> [Status: :white_check_mark:]
         </h5>
         <p>
-            Description coming soon!
+            This project is a static clone of the Zoom App, created with HTML and CSS. It replicates the visual appearance of the Zoom Call page to showcase front-end development skills. Please note that this is a visual replica and doesn't include actual functionality or server-side interactions.
         </p>
         <span>
             <a href="https://github.com/vdv-boolean/html-css-zoom">See the repository.
@@ -270,10 +270,10 @@
     </li> -->
     <li>
         <h5>
-            <a href="https://vdv-boolean.github.io/htmlcss-dropbox/">Dropbox Web App</a>
+            <a href="https://vdv-boolean.github.io/htmlcss-dropbox/">Dropbox Web App</a> [Status: :construction:]
         </h5>
         <p>
-            Description coming soon!
+            This project is a static clone of the Dropbox homepage, created with HTML and CSS. It replicates the visual appearance of the Dropbox landing page to showcase front-end development skills. Please note that this is a visual replica and doesn't include actual functionality or server-side interactions.
         </p>
         <span>
             <a href="https://github.com/vdv-boolean/htmlcss-dropbox">See the repository.
