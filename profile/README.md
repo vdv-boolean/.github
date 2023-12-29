@@ -122,7 +122,7 @@
         target="_blank" 
         rel="noreferrer"> 
         <img 
-            src="./img/phpmyadmin.png" 
+            src="https://github.com/vdv-boolean/.github/raw/main/img/phpmyadmin.png" 
             alt="phpmyadmin" 
             width="40" 
             height="40"
