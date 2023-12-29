@@ -196,7 +196,7 @@
             <a href="https://vdv-boolean.github.io/html-london-trip/">London Trip</a>
         </h5>
         <p>
-            A very simply page of a travel experience in London with expences, to-do-list, utility information and gallery. Ony using html code!
+           A very simple page of a travel experience in London with expenses, to-do list, utility information, and gallery. Only using HTML code!
         </p>
         <span>
             <a href="https://github.com/vdv-boolean/html-london-trip">See the repository.
