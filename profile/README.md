@@ -346,3 +346,7 @@
         </a>
     </li>
 </ul>
+:white_check_mark:
+:construction:
+:warning:
+:no_entry_sign:
