@@ -281,10 +281,10 @@
     </li>
     <li>
         <h5>
-            <a href="https://vdv-boolean.github.io/html-css-resp-wannabe/">Responsive Wannabe</a>
+            <a href="https://vdv-boolean.github.io/html-css-resp-wannabe/">Responsive Wannabe</a> [Status: :white_check_mark:]
         </h5>
         <p>
-            Description coming soon!
+            This project showcases a fully responsive landing page created with HTML and CSS. The landing page is designed to adapt seamlessly to various screen sizes, providing an optimal viewing experience on desktops, tablets, and mobile devices. It serves as an excellent example of responsive web design principles.
         </p>
         <span>
             <a href="https://github.com/vdv-boolean/html-css-resp-wannabe">See the repository.
@@ -292,10 +292,10 @@
     </li>
     <li>
         <h5>
-            <a href="https://vdv-boolean.github.io/htmlcss-responsive-layout/">Responsive layout</a>
+            <a href="https://vdv-boolean.github.io/htmlcss-responsive-layout/">Responsive layout</a> [Status: :construction:]
         </h5>
         <p>
-            Description coming soon!
+            This project showcases a fully responsive landing page created with HTML and CSS. The landing page is designed to adapt seamlessly to various screen sizes, providing an optimal viewing experience on desktops, tablets, and mobile devices. It serves as an excellent example of responsive web design principles.
         </p>
         <span>
             <a href="https://github.com/vdv-boolean/htmlcss-responsive-layout">See the repository.
@@ -303,10 +303,10 @@
     </li>
     <li>
         <h5>
-            <a href="https://vdv-boolean.github.io/html-css-spotifyweb/">Spotify Web App</a>
+            <a href="https://vdv-boolean.github.io/html-css-spotifyweb/">Spotify Web App</a> [Status: :construction:]
         </h5>
         <p>
-            Description coming soon!
+            This project is a static clone of the Spotify Web App, created with HTML and CSS. It replicates the visual appearance of the Spotify player page to showcase front-end development skills. Please note that this is a visual replica and doesn't include actual functionality or server-side interactions.
         </p>
         <span>
             <a href="https://github.com/vdv-boolean/html-css-spotifyweb">See the repository.
@@ -325,10 +325,10 @@
     </li> -->
     <li>
         <h5>
-            <a href="https://vdv-boolean.github.io/htmlcss-pixel-art/">Pixel Art</a>
+            <a href="https://vdv-boolean.github.io/htmlcss-pixel-art/">Pixel Art</a> [Status: :construction:]
         </h5>
         <p>
-            Description coming soon!
+            This repository features pixel art recreations of two iconic and famous drawings, crafted entirely with CSS rules. Each pixel art piece pays homage to the original artworks while showcasing the creative possibilities of using CSS for pixel-based illustrations. Dive into the world of CSS pixel artistry with these renditions of famous drawings.
         </p>
         <span>
             <a href="https://github.com/vdv-boolean/htmlcss-pixel-art">See the repository.
@@ -336,17 +336,19 @@
     </li>
     <li>
         <h5>
-            <a href="https://vdv-boolean.github.io/html-css-bootstrap-dashboard/">Bootstrap Dashboard</a>
+            <a href="https://vdv-boolean.github.io/html-css-bootstrap-dashboard/">Bootstrap Dashboard</a> [Status: :warning:]
         </h5>
         <p>
-            Description coming soon!
+            This repository houses a utility dashboard project built with the Bootstrap library for CSS. The dashboard is designed to provide a user-friendly interface for accessing and managing various utility-related features. With responsive design and clean aesthetics, this project showcases the power of Bootstrap in creating modern and efficient web applications.
         </p>
         <span>
             <a href="https://github.com/vdv-boolean/html-css-bootstrap-dashboard">See the repository.
         </a>
     </li>
 </ul>
+<!--            
 :white_check_mark:
 :construction:
 :warning:
 :no_entry_sign:
+-->
