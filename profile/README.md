@@ -182,7 +182,7 @@
 <ul>
     <li>
         <h5>
-            <a href="https://vdv-boolean.github.io/htmlcss-hello/">Hello World</a> :white_check_mark:
+            <a href="https://vdv-boolean.github.io/htmlcss-hello/">Hello World</a> [Status: :white_check_mark:]
         </h5>
         <p>
             This repository contains the well-known 'Hello World' program written in HTML code.
