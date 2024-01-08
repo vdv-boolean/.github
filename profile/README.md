@@ -197,7 +197,7 @@
                 This repository contains the well-known 'Hello World' program written in HTML code.
             </p>           
         </details>
-        <a href="https://github.com/vdv-boolean/htmlcss-hello">
+        <a href="https://vdv-boolean.github.io/htmlcss-hello/">
            <img 
                 src="https://vdv-boolean.github.io/htmlcss-hello/" 
                 alt="preview"
