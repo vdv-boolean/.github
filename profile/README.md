@@ -196,7 +196,7 @@
         </p>
         <a href="https://github.com/vdv-boolean/htmlcss-hello">
            <img 
-                src="https://img.shields.io/badge/just%20the%20message-8A2BE2" 
+                src="https://img.shields.io/badge/See%20the%20repository-8A2BE2" 
                 alt="preview"
             /> 
         </a>
