@@ -194,8 +194,11 @@
         <p>
             This repository contains the well-known 'Hello World' program written in HTML code.
         </p>
-        <span>
-            <a href="https://github.com/vdv-boolean/htmlcss-hello">See the repository.
+        <a href="https://github.com/vdv-boolean/htmlcss-hello">
+           <img 
+                src="https://img.shields.io/badge/just%20the%20message-8A2BE2" 
+                alt="preview"
+            /> 
         </a>
     </li>
     <li>
@@ -205,8 +208,7 @@
         <p>
            A very simple page of a travel experience in London with expenses, to-do list, utility information, and gallery. Only using HTML code!
         </p>
-        <span>
-            <a href="https://github.com/vdv-boolean/html-london-trip">See the repository.
+<a href="https://github.com/vdv-boolean/html-london-trip">See the repository.
         </a>
     </li>
     <li>
@@ -216,8 +218,7 @@
         <p>
             This project is a simple demonstration of a To-Do List created using HTML and CSS. It doesn't have any real functionality and is designed for practice and learning purposes.
         </p>
-        <span>
-            <a href="https://github.com/vdv-boolean/html-css-toboolist">See the repository.
+<a href="https://github.com/vdv-boolean/html-css-toboolist">See the repository.
         </a>
     </li>
     <li>
@@ -227,8 +228,7 @@
         <p>
             Float Cards is a simple yet effective showcase of an index page with contact cards built using HTML and CSS. The contact cards are styled using flexbox rules, providing a responsive and visually appealing layout for presenting contact information.
         </p>
-        <span>
-            <a href="https://github.com/vdv-boolean/html-css-float-cards">See the repository.
+<a href="https://github.com/vdv-boolean/html-css-float-cards">See the repository.
         </a>
     </li>
     <li>
@@ -238,8 +238,7 @@
         <p>
             This project is a static clone of the Discord homepage, created with HTML and CSS. It replicates the visual appearance of the Discord landing page to showcase front-end development skills. Please note that this is a visual replica and doesn't include actual functionality or server-side interactions.
         </p>
-        <span>
-            <a href="https://github.com/vdv-boolean/htmlcss-discord">See the repository.
+        <a href="https://github.com/vdv-boolean/htmlcss-discord">See the repository.
         </a>
     </li>
     <li>
@@ -249,8 +248,7 @@
         <p>
             Boolando is a static clone of the Zalando homepage, crafted with HTML and CSS. It replicates the visual aesthetics and layout of the Zalando website, serving as a front-end development exercise. Please note that this is a visual replica and does not include actual e-commerce functionality or server-side interactions.
         </p>
-        <span>
-            <a href="https://github.com/vdv-boolean/html-css-boolando">See the repository.
+<a href="https://github.com/vdv-boolean/html-css-boolando">See the repository.
         </a>
     </li>
     <li>
@@ -260,8 +258,7 @@
         <p>
             This project is a static clone of the Zoom App, created with HTML and CSS. It replicates the visual appearance of the Zoom Call page to showcase front-end development skills. Please note that this is a visual replica and doesn't include actual functionality or server-side interactions.
         </p>
-        <span>
-            <a href="https://github.com/vdv-boolean/html-css-zoom">See the repository.
+<a href="https://github.com/vdv-boolean/html-css-zoom">See the repository.
         </a>
     </li>
     <!-- <li>
@@ -271,8 +268,7 @@
         <p>
             Description coming soon!
         </p>
-        <span>
-            <a href="https://github.com/vdv-boolean/html-css-animation-filter">See the repository.
+<a href="https://github.com/vdv-boolean/html-css-animation-filter">See the repository.
         </a>
     </li> -->
     <li>
@@ -282,8 +278,7 @@
         <p>
             This project is a static clone of the Dropbox homepage, created with HTML and CSS. It replicates the visual appearance of the Dropbox landing page to showcase front-end development skills. Please note that this is a visual replica and doesn't include actual functionality or server-side interactions.
         </p>
-        <span>
-            <a href="https://github.com/vdv-boolean/htmlcss-dropbox">See the repository.
+<a href="https://github.com/vdv-boolean/htmlcss-dropbox">See the repository.
         </a>
     </li>
     <li>
@@ -293,8 +288,7 @@
         <p>
             This project showcases a fully responsive landing page created with HTML and CSS. The landing page is designed to adapt seamlessly to various screen sizes, providing an optimal viewing experience on desktops, tablets, and mobile devices. It serves as an excellent example of responsive web design principles.
         </p>
-        <span>
-            <a href="https://github.com/vdv-boolean/html-css-resp-wannabe">See the repository.
+<a href="https://github.com/vdv-boolean/html-css-resp-wannabe">See the repository.
         </a>
     </li>
     <li>
@@ -304,8 +298,7 @@
         <p>
             This project showcases a fully responsive landing page created with HTML and CSS. The landing page is designed to adapt seamlessly to various screen sizes, providing an optimal viewing experience on desktops, tablets, and mobile devices. It serves as an excellent example of responsive web design principles.
         </p>
-        <span>
-            <a href="https://github.com/vdv-boolean/htmlcss-responsive-layout">See the repository.
+<a href="https://github.com/vdv-boolean/htmlcss-responsive-layout">See the repository.
         </a>
     </li>
     <li>
@@ -315,8 +308,7 @@
         <p>
             This project is a static clone of the Spotify Web App, created with HTML and CSS. It replicates the visual appearance of the Spotify player page to showcase front-end development skills. Please note that this is a visual replica and doesn't include actual functionality or server-side interactions.
         </p>
-        <span>
-            <a href="https://github.com/vdv-boolean/html-css-spotifyweb">See the repository.
+<a href="https://github.com/vdv-boolean/html-css-spotifyweb">See the repository.
         </a>
     </li>
     <!-- <li>
@@ -326,8 +318,7 @@
         <p>
             Description coming soon!
         </p>
-        <span>
-            <a href="https://github.com/vdv-boolean/html-css-12bool">See the repository.
+<a href="https://github.com/vdv-boolean/html-css-12bool">See the repository.
         </a>
     </li> -->
     <li>
@@ -337,8 +328,7 @@
         <p>
             This repository features pixel art recreations of two iconic and famous drawings, crafted entirely with CSS rules. Each pixel art piece pays homage to the original artworks while showcasing the creative possibilities of using CSS for pixel-based illustrations. Dive into the world of CSS pixel artistry with these renditions of famous drawings.
         </p>
-        <span>
-            <a href="https://github.com/vdv-boolean/htmlcss-pixel-art">See the repository.
+<a href="https://github.com/vdv-boolean/htmlcss-pixel-art">See the repository.
         </a>
     </li>
     <li>
@@ -348,8 +338,7 @@
         <p>
             This repository houses a utility dashboard project built with the Bootstrap library for CSS. The dashboard is designed to provide a user-friendly interface for accessing and managing various utility-related features. With responsive design and clean aesthetics, this project showcases the power of Bootstrap in creating modern and efficient web applications.
         </p>
-        <span>
-            <a href="https://github.com/vdv-boolean/html-css-bootstrap-dashboard">See the repository.
+<a href="https://github.com/vdv-boolean/html-css-bootstrap-dashboard">See the repository.
         </a>
     </li>
 </ul>
