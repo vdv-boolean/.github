@@ -199,14 +199,13 @@
         </details>
         <a href="https://vdv-boolean.github.io/htmlcss-hello/">
            <img 
-                src="https://img.shields.io/badge/See%20the%20preview-black" 
+                src="https://img.shields.io/badge/See%20the%20preview-#2A76F6" 
                 alt="preview"
             /> 
-            -
         </a>
         <a href="https://github.com/vdv-boolean/htmlcss-hello">
            <img 
-                src="https://img.shields.io/badge/See%20the%20repository-black" 
+                src="https://img.shields.io/badge/See%20the%20repository-#2A76F6" 
                 alt="repository"
             /> 
         </a>
