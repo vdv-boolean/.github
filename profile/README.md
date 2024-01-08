@@ -178,14 +178,14 @@
 </p>
 
 <h3 align="center">Front-End Projects:</h3>
-
+        ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+        ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <ul>
     <li>
         <h5>
             <a href="https://vdv-boolean.github.io/htmlcss-hello/">Hello World</a> [Status: :white_check_mark:]
         </h5>
-        ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-        ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
         <p>
             This repository contains the well-known 'Hello World' program written in HTML code.
         </p>
