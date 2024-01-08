@@ -183,6 +183,8 @@
         <h5>
             <a href="https://vdv-boolean.github.io/htmlcss-hello/">Hello World</a> [Status: :white_check_mark:]
         </h5>
+        <details>
+  <summary>Clicca per mostrare/nascondere la zona a scomparsa</summary>
         <img 
             src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" 
             alt="html5"
@@ -193,7 +195,8 @@
         />
         <p>
             This repository contains the well-known 'Hello World' program written in HTML code.
-        </p>
+        </p>           
+</details>
         <a href="https://github.com/vdv-boolean/htmlcss-hello">
            <img 
                 src="https://img.shields.io/badge/See%20the%20repository-8A2BE2" 
