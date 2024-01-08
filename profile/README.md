@@ -184,7 +184,7 @@
             <a href="">Hello World</a> [Status: :white_check_mark:]
         </h5>
         <details>
-            <summary>Clicca per mostrare/nascondere la zona a scomparsa</summary>
+            <summary>Show/Hide info</summary>
             <img 
                 src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" 
                 alt="html5"
@@ -202,6 +202,7 @@
                 src="https://vdv-boolean.github.io/htmlcss-hello/" 
                 alt="preview"
             /> 
+            -
         </a>
         <a href="https://github.com/vdv-boolean/htmlcss-hello">
            <img 
